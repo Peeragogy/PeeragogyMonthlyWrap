@@ -2,12 +2,12 @@
 
 Wish list for how people could support for wrap:
 * Share with course: where are problems / pain points?
-* Get people's input into wrap itself earlier in month
-* Add multiple perspectives on what's happening question answer (coming to concensus sometimes leads to lack of diversity)
+* Get people’s input into wrap itself earlier in month
+* Add multiple perspectives on the answer to the “what’s happening” question (coming to concensus sometimes leads to lack of diversity)
 
 Have a Peeragogical Action Review specific repository?
 * Make it easier for people to contribute
-* Make it more of a data project, like mix tape where it flows?
+* Make it more of a data project, like mix tape, so new entries can flow automatically into the wrap for the month?
 * Similar to pattern repository?
 
 Future:
